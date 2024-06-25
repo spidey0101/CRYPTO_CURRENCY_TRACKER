@@ -34,6 +34,14 @@ This will open a new tab in your default web browser with the **CRYPTO_CURRENCY_
 - Pandas
 - Yahoo Finance API
 
+## Screenshots
+<p float="left">
+  <img src="image1.png" width="250" />
+  <img src="image2.png" width="250" /> 
+  <img src="image3.png" width="250" />
+</p>
+
+
 ## Contributing
 Contributions are welcome! If you have any suggestions or feature requests, please open an issue or submit a pull request.
 
